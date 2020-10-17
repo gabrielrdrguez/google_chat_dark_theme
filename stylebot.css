@@ -1,0 +1,159 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+div.Zc1Emd.QIJiHb.MiRdyc {
+    font-family:   Roboto;
+    background-color: #2B2B2B;
+    color: #A9B7C6;
+    font-size: 16px;
+    text-align: left;
+    line-height: 18px;
+    border-left-width: 1px;
+    border-style: solid;
+    padding-left: 10px;
+    border-color: #00CFFB;
+    font-weight: 400;
+    font-style: normal;
+}
+/* void between messages background */
+div.jGyvbd.GVSFtd {
+    background-color: #2B2B2B;
+}
+/* chat main bg */
+div.Bl2pUd.krjOGe {
+    background-color: #222222;
+}
+/* header time */
+div.b8Cb3d {
+  color:#00CFFB
+}
+/* header name */
+span.njhDLd {
+    color: #ff822e;
+}
+
+/* active chat border */
+div.dsoUjb.FwR7Pc {
+      border-color: #dadce0;
+}
+
+/* message header */
+div.oGsu4 {
+    background-color: #2B2B2B;
+}
+
+
+/* spacer msg - reply bar */
+div.nF6pT.jO0Dzb {
+    background-color: transparent;
+}
+
+/* active chat div */
+div.dsoUjb {
+    background-color: #2B2B2B;
+    border-color: #2B2B2B
+}
+
+
+/* message background */
+div.YJxKBc.QE8tKf {
+    background-color: #2B2B2B;
+}
+
+/* active reply bar */
+div.vmpzOc {
+    background-color: #2B2B2B;
+}
+
+/* mouse over msg */
+div.hu21Y:hover {
+    background-color: rgb(68, 68, 68)
+}
+
+/* link preview */
+div.tHcB6b {
+    height: 40px;
+}
+
+/* encontre alguém... */
+div.yOUDAf.OVOLU {
+    color: #A9B7C6;
+}
+
+/* Salas */
+div.aOHsTc.rLyQBf {
+    color: #A9B7C6
+}
+
+/* bots */
+div.aOHsTc.CX7qPd {
+    color: #A9B7C6
+}
+
+/* Encontrar pessoas, salas... */
+div.HLTcjb {
+    color: #A9B7C6;
+}
+
+/* spacer sidebar - chat */
+div.yxIv1d.krjOGe {
+    background-color: #2B2B2B;
+}
+
+/* header siderbar */
+div.hqlnxe {
+    background-color: #2B2B2B;
+}
+
+
+/* salas hamburger menu btn */
+span.Lw7GHd.snByac {
+    background-color: #333;
+
+}
+
+/* Begin salas menu lateral */
+
+span.jy2fzc {
+    color: #A9B7C6;
+    background-color: #2B2B2B;
+}
+/* end salas menu lateral */
+
+/* sidebar bg */
+div.n5yyEc {
+    background-color: #2b2b2b;
+}
+/* sidebar header shadow */
+c-wiz.d6pS5 {
+    box-shadow: 0 12px 12px -2px #202124;
+}
+/* sidebar chat header */
+div.aOHsTc.pGzWt {
+  color:#A9B7C6
+}
+
+/* sala active */
+span.qs41qe {
+  background-color: #222222;
+
+}
+
+/* title sala active */
+span.qs41qe span.jy2fzc {
+    color: #A9B7C6;
+    background-color: #222222;
+}
+
+/* shadow btn seguindo */
+div.yg4pvb:before {
+background: transparent;
+}
+/* bg btn seguindo */
+div.FuHVqe {
+  background-color: #444;
+}
+
+/* text btn seguindo */
+div.zxHSSc {
+  color: #ff822e
+}
