@@ -162,3 +162,19 @@ div.zxHSSc {
 div.BScnzc {
   color: #A9B7C6;
 }
+
+/* edit message text area bg */
+div.dJ9vNe {
+  background-color: #4B4B4B;
+}
+
+/* new message text bg*/
+div.oGsu4  div.oAzRtb.krjOGe {
+  background-color: #4B4B4B;
+  border-radius: 0.25rem;
+}
+
+/* hover over text icon */
+div.U26fgb.mUbCce.fKz7Od:hover {
+  fill: #A9B7C6
+}
