@@ -24,7 +24,7 @@ div.Bl2pUd.krjOGe {
 }
 /* header time */
 div.b8Cb3d {
-  color:#00CFFB
+    color:#00CFFB
 }
 /* header name */
 span.njhDLd {
@@ -33,7 +33,7 @@ span.njhDLd {
 
 /* active chat border */
 div.dsoUjb.FwR7Pc {
-      border-color: #dadce0;
+    border-color: #dadce0;
 }
 
 /* message header */
@@ -50,6 +50,7 @@ div.nF6pT.jO0Dzb {
 /* active chat div */
 div.dsoUjb {
     background-color: #2B2B2B;
+    border-radius: 0px;
     border-color: #2B2B2B
 }
 
@@ -129,12 +130,12 @@ c-wiz.d6pS5 {
 }
 /* sidebar chat header */
 div.aOHsTc.pGzWt {
-  color:#A9B7C6
+    color:#A9B7C6
 }
 
 /* sala active */
 span.qs41qe {
-  background-color: #222222;
+    background-color: #222222;
 
 }
 
@@ -146,35 +147,47 @@ span.qs41qe span.jy2fzc {
 
 /* shadow btn seguindo */
 div.yg4pvb:before {
-background: transparent;
+    background: transparent;
 }
 /* bg btn seguindo */
 div.FuHVqe {
-  background-color: #444;
+    background-color: #444;
 }
 
 /* text btn seguindo */
 div.zxHSSc {
-  color: #ff822e
+    color: #ff822e
 }
 
 /* edit message text */
 div.BScnzc {
-  color: #A9B7C6;
+    color: #A9B7C6;
 }
 
 /* edit message text area bg */
 div.dJ9vNe {
-  background-color: #4B4B4B;
+    background-color: #4B4B4B;
 }
 
 /* new message text bg*/
 div.oGsu4  div.oAzRtb.krjOGe {
-  background-color: #4B4B4B;
-  border-radius: 0.25rem;
+    background-color: #4B4B4B;
+    border-radius: 0.25rem;
 }
 
 /* hover over text icon */
 div.U26fgb.mUbCce.fKz7Od:hover {
-  fill: #A9B7C6
+    fill: #A9B7C6
 }
+
+/* private chat new message bar bg */
+div.byY7Yb.cFc9ae, div.XganBc {
+    background-color: #222222;
+}
+
+/* left spacer chat msg */
+div.AflJR {
+    background-color: #2B2B2B;
+    border-radius: 0px;
+}
+
